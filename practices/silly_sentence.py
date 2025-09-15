@@ -1,7 +1,7 @@
 #IL 6th silly sentences
 
 name=input("please type a name : ").title().strip()
-verb=input("please type a verb without an ing : ").title().strip()
+verb=input("please type a past tence verb without an ing : ").title().strip()
 noun=input("please type a noun : ").title().strip()
 number=input('please type a number between 1 and 24 : ').title().strip()
 item= input('please type a random object : ').title().strip()
