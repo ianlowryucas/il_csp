@@ -18,7 +18,7 @@ i = 1
     #i+=1
 
 import random
-num = random.randint(1,200)
+num = random.randint(1,20000)
 x=1
 while x != num:
     print('your mom')
