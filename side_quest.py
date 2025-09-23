@@ -14,8 +14,8 @@ for kaboom in tf2:
 print('and part three we have to increase our iderator these are the three steps i timed that dont think other wise i am not friends with zeus maybe thor but probably not while i is less than 21 we have to increase our iderator')
 i = 1
 #while i > 0:
-    #print(i)
-    #i+=1
+#    print(i)
+#    i+=1"
 
 import random
 num = random.randint(1,20000)
