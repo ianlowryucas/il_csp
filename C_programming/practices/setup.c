@@ -2,7 +2,7 @@
 #include <stdio.h>
 
 int main(void){
-//type here
+    //type here
     return 0;
 }
 

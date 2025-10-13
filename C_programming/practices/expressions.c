@@ -23,9 +23,8 @@ int main(void){
     printf("\n(1^4x2^2+3^3)-2^5/4 = %d",a8);
     printf("\n(22/2-2x5)^2+(4-6/6)^2 = %d",a9);
 
-
-
-
+/*
+bing bong why isn't it working
+*/
     return 0;
 }
-
