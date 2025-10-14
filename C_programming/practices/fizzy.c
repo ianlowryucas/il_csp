@@ -12,7 +12,7 @@ int main(void){
             }else if (i%5==0){
                 printf("\nBuzz");
             }else{
-            printf("%d", i);
+            printf("\n%d", i);
         }  
         i+=1;
 }
