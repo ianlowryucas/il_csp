@@ -4,17 +4,17 @@
 
 int main(void){
     int i=0;
-    while(1<51){
+    while(i<51){
         if (i%3==0&&i%5==0){
-            if (i%5==0){
-                printf("FizzBuzz");
+                printf("\nFizzBuzz");
             }else if (i%3==0){
-                printf("Fizz");
+                printf("\nFizz");
             }else if (i%5==0){
-                printf("Buzz");
-            }
-        }else{
+                printf("\nBuzz");
+            }else{
             printf("%d", i);
-        }    
+        }  
+        i+=1;
+}
     return 0;
 }
