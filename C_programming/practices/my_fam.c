@@ -2,17 +2,11 @@
 #include <stdio.h>
 
 int main(void){
-    char fam1[20];
-    char fam2[20];
-    char fam3[20]; 
-    printf("please type a family name : ");
-    scanf("%s", &fam1);
-    printf("please type a family name : ");
-    scanf("%s", &fam2);
-    printf("please type a family name : ");
-    scanf("%s", &fam3);
-    printf("\nhello %s", fam1);
-    printf("\nhello %s", fam2);
-    printf("\nhello %s", fam3);
+    char fam[7][20] = {"hannah", "kate", "dad", "mom", "summer"};
+    printf("\nhello %s", fam[0]);
+    printf("\nhello %s", fam[1]);
+    printf("\nhello %s", fam[2]);
+    printf("\nhello %s", fam[3]);
+    printf("\nhello %s", fam[4]);
     return 0;
 }
